@@ -1,0 +1,125 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by demo.rc
+//
+#define IDD_COLOR                       101
+#define IDD_FUN                         103
+#define IDD_FUN1                        104
+#define IDD_R                           105
+#define IDD_F                           110
+#define IDD_T                           111
+#define IDD_T1                          112
+#define IDD_T2                          113
+#define IDD_DIALOG2                     114
+#define IDD_DYNAMIC_SURFACE_CREATE      115
+#define IDC_EDIT                        1005
+#define IDC_EDIT2                       1006
+#define IDC_EDIT3                       1007
+#define IDC_EDIT4                       1008
+#define IDC_EDIT5                       1009
+#define IDC_EDIT6                       1010
+#define IDC_EDIT7                       1011
+#define IDC_EDIT8                       1012
+#define IDC_EDIT30                      1034
+#define IDC_EDIT31                      1035
+#define IDC_EDIT32                      1036
+#define IDC_EDIT33                      1037
+#define IDC_EDIT34                      1038
+#define IDC_EDIT35                      1039
+#define IDC_EDIT36                      1040
+#define IDC_EDIT37                      1041
+#define IDC_EDIT38                      1042
+#define IDC_EDIT39                      1043
+#define IDC_EDIT40                      1044
+#define IDC_EDIT41                      1045
+#define IDC_EDIT42                      1046
+#define IDC_EDIT43                      1047
+#define IDC_EDIT44                      1048
+#define IDC_EDIT45                      1049
+#define IDC_EDIT46                      1050
+#define IDC_EDIT47                      1051
+#define IDC_EDIT48                      1052
+#define IDC_EDIT49                      1053
+#define IDC_EDIT50                      1054
+#define IDC_EDIT51                      1055
+#define IDC_EDIT52                      1056
+#define IDC_EDIT53                      1057
+#define IDC_EDIT54                      1058
+#define IDC_EDIT55                      1059
+#define IDC_EDIT56                      1060
+#define IDC_EDIT57                      1061
+#define IDC_EDIT58                      1062
+#define IDC_EDIT59                      1063
+#define IDC_EDIT60                      1064
+#define IDC_EDIT61                      1065
+#define IDC_EDIT62                      1066
+#define IDC_EDIT63                      1067
+#define IDC_EDIT64                      1068
+#define IDC_EDIT65                      1069
+#define IDC_EDIT66                      1070
+#define IDC_EDIT67                      1071
+#define IDC_EDIT68                      1072
+#define IDC_EDIT69                      1073
+#define IDC_EDIT70                      1074
+#define IDC_EDIT71                      1075
+#define IDC_EDIT72                      1076
+#define IDC_EDIT73                      1077
+#define IDC_EDIT74                      1078
+#define IDC_EDIT75                      1079
+#define IDC_EDIT76                      1080
+#define IDC_EDIT77                      1081
+#define IDC_EDIT78                      1082
+#define IDC_EDIT79                      1083
+#define IDC_EDIT80                      1084
+#define IDC_EDIT81                      1085
+#define IDC_EDIT82                      1086
+#define IDC_EDIT83                      1087
+#define IDC_EDIT84                      1088
+#define IDC_EDIT85                      1089
+#define IDC_EDIT86                      1090
+#define IDC_EDIT87                      1091
+#define IDC_EDIT88                      1092
+#define IDC_EDIT89                      1093
+#define IDC_EDIT90                      1094
+#define IDC_EDIT91                      1095
+#define IDC_EDIT92                      1096
+#define IDC_EDIT93                      1097
+#define IDC_EDIT94                      1098
+#define IDC_EDIT95                      1099
+#define IDC_EDIT96                      1100
+#define IDC_EDIT97                      1101
+#define IDC_EDIT9                       1102
+#define IDC_EDIT10                      1103
+#define IDC_EDIT11                      1104
+#define IDC_EDIT12                      1105
+#define IDC_EDIT13                      1106
+#define IDC_EDIT14                      1107
+#define IDC_EDIT15                      1108
+#define IDC_EDIT16                      1109
+#define IDC_EDIT17                      1110
+#define IDC_EDIT18                      1111
+#define IDC_EDIT19                      1112
+#define IDC_EDIT20                      1113
+#define IDC_EDIT21                      1114
+#define IDC_EDIT22                      1115
+#define IDC_EDIT23                      1116
+#define IDC_EDIT24                      1117
+#define IDC_U_DEGREE        1118
+#define IDC_V_DEGREE        1119
+#define IDC_U_CP_LENGTH     1120
+#define IDC_V_CP_LENGTH     1121
+#define IDC_OPTIONAL        1122
+#define IDC_CREATE          1123
+#define IDC_U_KNOTS			1124
+#define IDC_V_KNOTS			1125
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        118
+#define _APS_NEXT_COMMAND_VALUE         40003
+#define _APS_NEXT_CONTROL_VALUE         1007
+#define _APS_NEXT_SYMED_VALUE           106
+#endif
+#endif
