@@ -130,7 +130,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\SkeletonC2019_v2\exp2tree\expr2tree.h" />
+    <ClInclude Include="expr2tree.h" />
     <ClInclude Include="include\cagd.h" />
   </ItemGroup>
   <ItemGroup>

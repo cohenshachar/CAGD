@@ -35,7 +35,7 @@
     <ClInclude Include="include\cagd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\SkeletonC2019_v2\exp2tree\expr2tree.h">
+    <ClInclude Include="expr2tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
