@@ -1425,10 +1425,6 @@ CAGD_POINT calculateNormal(CAGD_POINT Su, CAGD_POINT Sv) {
     return normal;
 }
 
-#include <stdio.h>
-#include <math.h>
-
-// Function prototypes
 double determinant(double a, double b, double c, double d);
 void inverseMatrix(double I[2][2], double I_inv[2][2]);
 void multiplyMatrices(double A[2][2], double B[2][2], double C[2][2]);
@@ -1436,12 +1432,10 @@ void computeEigenvalues(double S[2][2], double* k1, double* k2);
 void computeEigenvector(double S[2][2], double kappa, double v[2]);
 void compute3DVector(double v2D[2], CAGD_POINT r_u, CAGD_POINT r_v, CAGD_POINT* v3D);
 
-// Function to compute the determinant of a 2x2 matrix
 double determinant(double a, double b, double c, double d) {
     return a * d - b * c;
 }
 
-// Function to compute the inverse of a 2x2 matrix
 void inverseMatrix(double I[2][2], double I_inv[2][2]) {
     double det = determinant(I[0][0], I[0][1], I[1][0], I[1][1]);
     if (det == 0) {
